@@ -1,0 +1,14 @@
+# 本机运行配置（含显示器标识、端口、快捷键），不入库
+displaydock.json
+lan-kvm.json
+
+# 构建与运行产物
+build/
+dist/
+logs/
+*.tmp
+
+# 编辑器
+.vs/
+.idea/
+*.user
